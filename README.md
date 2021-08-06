@@ -1,6 +1,15 @@
-### Hi there 👋
-I'm Sakharova Maria.
+### Hi there 👋, I'm Sakharova Maria.
+I'am Maria from Russia.
+* :evergreen_tree: I'am a FrontEnd Developer (~~*__sometimes FullStack__*~~)
 * :calling: I'm currently looking for a job
+* :ring: I worked as a developer at a precious metals factory
+* :shipit: I like knitting
+
+## Skills and Experience
+* React
+* JS, HTML, CSS
+* C#, .NET Core
+* SQL
 <!--
 **Deliora90/Deliora90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
