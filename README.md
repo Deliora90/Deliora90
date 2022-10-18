@@ -10,7 +10,7 @@
 * C#, .NET Core
 * SQL
 
-My LinkedIn profile: www.linkedin.com/in/mariya-sakharova-791512237 
+My LinkedIn profile: [www.linkedin.com/in/mariya-sakharova-791512237](http://www.linkedin.com/in/maria-sakharova-791512237) 
 <!--
 **Deliora90/Deliora90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
