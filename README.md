@@ -1,5 +1,4 @@
 ### Hi there 👋, I'm Sakharova Maria.
-I'am Maria from Russia.
 * :evergreen_tree: I'am a FrontEnd Developer (~~*__sometimes FullStack__*~~)
 * :calling: I'm currently looking for a job
 * :ring: I worked as a developer at a precious metals factory
