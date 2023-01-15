@@ -1,7 +1,6 @@
 ### Hi there 👋, I'm Sakharova Maria.
 * :evergreen_tree: I'am a FrontEnd Developer (~~*__sometimes FullStack__*~~)
 * :calling: I'm currently looking for a job
-* :ring: I worked as a developer at a precious metals factory
 * :shipit: I like knitting
 
 ## Skills and Experience
